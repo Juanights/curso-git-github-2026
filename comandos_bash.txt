@@ -2,3 +2,5 @@ ls -> lista arquivos
 cd - > se move entre os diretórios
 pwd -. mostra o diretório de trabalho
 mkdir -> cria um diretório ou pasta
+cat -> exibe conteúdo do arquivo
+rm -> remove arquivo ou diretório 
