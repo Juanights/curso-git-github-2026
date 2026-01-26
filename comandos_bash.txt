@@ -1,0 +1,4 @@
+ls -> lista arquivos
+cd - > se move entre os diretórios
+pwd -. mostra o diretório de trabalho
+mkdir -> cria um diretório ou pasta
