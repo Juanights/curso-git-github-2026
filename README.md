@@ -6,5 +6,6 @@ Um curso para iniciantes aprenderem versionamento de código e repositórios rem
 
 Além disso, vamos trabalhar om GitFlow ao final do curso e Visual Studio Code.
 
+Git pelo Youtube
 
 
